@@ -1,4 +1,4 @@
-# Traffic Light React Game
+# Traffic Light Game
 
 ## Description
 
@@ -13,16 +13,12 @@ The game operates as follows:
 
 The main goal is to accumulate as many points as possible, demonstrating good reaction speed and attention.
 
-## Demo
-
-[Link to GitHub Pages](YOUR_GITHUB_PAGES_LINK) - *Replace this link with the URL of your project on GitHub Pages.*
-
 ## Technologies
 
-*   [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-*   [Vite](https://vitejs.dev/) - Frontend build tool
-*   [JavaScript (ES6+)](https://www.ecma-international.org/ecma-262/6.0/)
-
+*   React  
+*   Vite 
+*   JavaScript
+*   
 ## How to Run the Project Locally
 
 1.  **Clone the repository:**
@@ -32,7 +28,6 @@ The main goal is to accumulate as many points as possible, demonstrating good re
     cd REPO_NAME
     ```
 
-    *Replace `YOUR_USERNAME` and `REPO_NAME` with your actual values.*
 
 2.  **Install dependencies:**
 
@@ -50,5 +45,4 @@ The main goal is to accumulate as many points as possible, demonstrating good re
 
     Navigate to the address displayed in the console (usually `http://localhost:3000`).
 
-## Production Build
 
