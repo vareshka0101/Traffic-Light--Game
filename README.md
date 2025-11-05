@@ -10,6 +10,7 @@ The game operates as follows:
 2.  The player must press the "Start" button when *only*  the green light is illuminated.
 3.  If the player presses the button when the green light is on, they score one point.
 4.  If the player presses the button when the red or yellow light is on, or if they wait too long to press the button when the green light is on, the game ends.
+<img width="1167" height="883" alt="11" src="https://github.com/user-attachments/assets/ce0ac360-637d-4dda-9848-5c4d4505bc51" />
 
 The main goal is to accumulate as many points as possible, demonstrating good reaction speed and attention.
 
