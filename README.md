@@ -18,7 +18,7 @@ The main goal is to accumulate as many points as possible, demonstrating good re
 *   React  
 *   Vite 
 *   JavaScript
-*   
+  
 ## How to Run the Project Locally
 
 1.  **Clone the repository:**
