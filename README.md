@@ -25,7 +25,7 @@ The main goal is to accumulate as many points as possible, demonstrating good re
 
     ```bash
     git clone https://github.com/vareshka0101/Traffic-Light--Game
-    cd traffic_light
+    cd Traffic-Light--Game
     ```
 
 
