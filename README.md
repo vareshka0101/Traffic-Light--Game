@@ -12,7 +12,7 @@ The game operates as follows:
 4.  If the player presses the button when the red or yellow light is on, or if they wait too long to press the button when the green light is on, the game ends.
 
 The main goal is to accumulate as many points as possible, demonstrating good reaction speed and attention.
-![Screenshot of the game](assets/images/game_screenshot.png)
+
 ## Technologies
 
 *   React  
