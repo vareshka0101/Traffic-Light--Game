@@ -24,8 +24,8 @@ The main goal is to accumulate as many points as possible, demonstrating good re
 1.  **Clone the repository:**
 
     ```bash
-    git clone git@github.com:YOUR_USERNAME/REPO_NAME.git
-    cd REPO_NAME
+    git clone https://github.com/vareshka0101/Traffic-Light--Game
+    cd traffic_light
     ```
 
 
